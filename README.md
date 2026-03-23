@@ -31,7 +31,7 @@ A modern, responsive school website built using React, Vite, and Tailwind CSS.
 
 ## Getting Started
 ```bash
-git clone https://github.com/CJ0819/
+git clone https://github.com/CJ0819/school0.git
 cd school0
 npm install
 npm run dev
